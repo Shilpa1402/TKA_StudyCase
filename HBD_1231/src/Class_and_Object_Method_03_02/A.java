@@ -11,5 +11,4 @@ public class A {
 		double res = (a+b)*(a-b);
 		return res;
 	}
-
 }
